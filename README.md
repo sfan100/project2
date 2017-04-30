@@ -8,5 +8,3 @@ fifth change
 sixth change
 1st change in web
 2nd change in web
-fifth chagne
-sixth chagne
